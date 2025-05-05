@@ -1,16 +1,12 @@
-# SAP-ABAP
+# SAP-ABAP Portfolio (MINISAP, Learning purpose only)
 Advance Business Application Programming Projects
 This repository is created to showcase my experience and knowledge in SAP ABAP development. It serves as a technical portfolio to demonstrate my ability to build and maintain custom programs, reports, enhancements, and integration using standard SAP tools and methodologies.
-
-# SAP ABAP Portfolio
-This repository contains a collection of SAP ABAP developments that I have worked on, including reports, SmartForms.
 
 ## Contents
 - 📄 Custom Reports with ALV and Selection Screen
 - 🧾 SmartForms and SAPScript layouts
 
 Each project includes a short explanation and code snippet or documentation.
-
 
 # Functional Specification
 
@@ -19,7 +15,7 @@ Each project includes a short explanation and code snippet or documentation.
 ### Selection Screen / Input Screen:
 ![image](https://github.com/user-attachments/assets/47910bb1-2afe-4092-a5ca-c6df968233b8)
 
-Table Fields for Reference:
+Table Fields for Reference: <br />
 SO Creation Date = VBAK-ERDAT <br />
 SO Created By = VBAK-ERNAM <br />
 
